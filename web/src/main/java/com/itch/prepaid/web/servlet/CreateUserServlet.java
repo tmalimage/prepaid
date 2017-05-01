@@ -36,6 +36,11 @@ public class CreateUserServlet extends HttpServlet
 		user.setName(name);
 		user.setEmail(email);
 		
+		if("df".equals(null))
+		{
+			System.out.println("Hello");
+		}
+		
 		WebApplicationContext applicationContext = WebApplicationContextUtils.getWebApplicationContext(this.getServletContext());
 		UserSvc userSvc = (UserSvc) applicationContext.getBean("userSvc");
 		try 
