@@ -1,4 +1,4 @@
-/Users/TCM/Projects/MavenProject/prepaid/user-service/src/main/java/com/itch/prepaid/us/service/UserSvcImpl.java
-/Users/TCM/Projects/MavenProject/prepaid/user-service/src/main/java/com/itch/prepaid/us/exception/UserException.java
-/Users/TCM/Projects/MavenProject/prepaid/user-service/src/main/java/com/itch/prepaid/us/model/User.java
-/Users/TCM/Projects/MavenProject/prepaid/user-service/src/main/java/com/itch/prepaid/us/service/UserSvc.java
+/Users/TCM/Projects/GIT/prepaid/user-service/src/main/java/com/itch/prepaid/us/exception/UserException.java
+/Users/TCM/Projects/GIT/prepaid/user-service/src/main/java/com/itch/prepaid/us/service/UserSvc.java
+/Users/TCM/Projects/GIT/prepaid/user-service/src/main/java/com/itch/prepaid/us/service/UserSvcImpl.java
+/Users/TCM/Projects/GIT/prepaid/user-service/src/main/java/com/itch/prepaid/us/model/User.java
