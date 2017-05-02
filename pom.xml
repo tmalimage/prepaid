@@ -61,6 +61,9 @@
 		</plugins>
 		<resources>
 			<resource>
+				<directory>${basedir}/src/main/resources</directory>
+			</resource>
+			<resource>
 				<directory>${basedir}/profiles/${projectStage}</directory>
 			</resource>
 		</resources>
